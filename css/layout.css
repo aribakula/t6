@@ -3,3 +3,6 @@
 .h1_grid {
   place-self: center;
 }
+p {
+  place-self: center;
+}
